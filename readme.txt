@@ -5,3 +5,5 @@ add someting。
 添加几行标注。
 add revert test
 27日更新的内容
+
+checkout file test
