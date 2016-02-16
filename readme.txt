@@ -7,4 +7,4 @@ add revert test
 27日更新的内容
 
 checkout file test
-creating a new branch is quick.
+creating a new branch is quick AND simple.
