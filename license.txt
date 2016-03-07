@@ -1,5 +1,5 @@
 
 】测试缓存区的内容
-test huancun functions
+test huancun delete something
 乌拉wulala！！！abcdefg
-celue dev
+celue dev  stash 
